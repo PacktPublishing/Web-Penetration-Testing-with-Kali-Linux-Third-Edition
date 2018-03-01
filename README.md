@@ -46,5 +46,4 @@ The only hardware necessary is a personal computer, with an operation system cap
 * [Digital Forensics with Kali Linux](https://www.packtpub.com/networking-and-servers/digital-forensics-kali-linux-0?utm_source=github&utm_medium=repository&utm_campaign=9781788625005)
 
 * [Kali Linux Wireless Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/kali-linux-wireless-penetration-testing-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783554089)
-###Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
